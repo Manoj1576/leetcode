@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/Manoj1576/leetcode/tree/master/0566-reshape-the-matrix) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Manoj1576/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 ## Matrix
 |  |
 | ------- |
@@ -13,4 +14,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/Manoj1576/leetcode/tree/master/0566-reshape-the-matrix) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Manoj1576/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+## Math
+|  |
+| ------- |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Manoj1576/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 <!---LeetCode Topics End-->
