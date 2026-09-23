@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Manoj1576/leetcode/tree/master/0189-rotate-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Manoj1576/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0419-battleships-in-a-board](https://github.com/Manoj1576/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0566-reshape-the-matrix](https://github.com/Manoj1576/leetcode/tree/master/0566-reshape-the-matrix) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Manoj1576/leetcode/tree/master/0189-rotate-array) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Manoj1576/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 ## Binary Search
 |  |
@@ -44,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0419-battleships-in-a-board](https://github.com/Manoj1576/leetcode/tree/master/0419-battleships-in-a-board) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Manoj1576/leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
