@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Manoj1576/leetcode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/Manoj1576/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Manoj1576/leetcode/tree/master/0189-rotate-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Manoj1576/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0419-battleships-in-a-board](https://github.com/Manoj1576/leetcode/tree/master/0419-battleships-in-a-board) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Manoj1576/leetcode/tree/master/0088-merge-sorted-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Manoj1576/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Heap (Priority Queue)
 |  |
@@ -51,5 +53,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Manoj1576/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Manoj1576/leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
