@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Manoj1576/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Manoj1576/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Manoj1576/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Manoj1576/leetcode/tree/master/0189-rotate-array) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Manoj1576/leetcode/tree/master/0035-search-insert-position) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Manoj1576/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Manoj1576/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Sorting
